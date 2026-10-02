@@ -6,4 +6,4 @@ Entrá a la pestaña **Releases** (a la derecha) y elegí tu plataforma:
 
 - **Windows**: `LaFeriaDelJean.exe` — doble clic y seguí el asistente. Instala solo lo que haga falta.
 - **Android**: el `.apk` — activá "instalar de orígenes desconocidos" si el teléfono lo pide, y tocá el archivo.
-- **Linux**: el `.AppImage` — dale permiso de ejecución (clic derecho → Propiedades → Permitir ejecutar) y abrilo. No necesita instalación.
+- **Linux**: el `.AppImage` — dale permiso de ejecución (clic derecho → Propiedades → Permitir ejecutar) y abrelo. No necesita instalación.
