@@ -1,6 +1,6 @@
 # La Feria del Jean — Descargas
 
-**Versión actual: 1.1.2**
+**Versión actual: 1.1.3**
 
 Acá están los instaladores de "La Feria del Jean" listos para bajar e instalar, un solo archivo por plataforma. No hace falta ningún conocimiento técnico.
 
